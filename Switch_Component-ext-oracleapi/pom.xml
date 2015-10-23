@@ -8,11 +8,11 @@
   </parent>
 
     <groupId>com.rnp</groupId>
-    <artifactId>Switch_Component-oracleapi</artifactId>
+    <artifactId>Switch_Component-ext-oracleapi</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Switch_Component-oracleapi</name>
+    <name>Switch_Component-ext-oracleapi</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>

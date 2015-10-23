@@ -8,12 +8,12 @@
   <name>Switch_Platform</name>
   <modules>
     <module>Switch_Platform-ear</module>
-    <module>Switch_Platform-dbapi-web</module>
     <module>Switch_Platform-restapi-web</module>
     <module>Switch_Platform-services</module>
     <module>Switch_Component-httpbridge</module>
     <module>Switch_Component-filemanager</module>
-    <module>Switch_Component-oracleapi</module>
     <module>Switch_Platform-core-data</module>
+    <module>Switch_Platform-ext-dbapi-web</module>
+    <module>Switch_Component-ext-oracleapi</module>
   </modules>
 </project>
